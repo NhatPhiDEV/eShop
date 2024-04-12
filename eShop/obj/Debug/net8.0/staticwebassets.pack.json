@@ -1,0 +1,769 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\anticon.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\anticon.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.svg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\anticon.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.ttf"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\anticon.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.woff"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\anticond41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticond41d.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-10.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-11.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-5.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-6.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-7.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-8.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\avatars\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-9.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\logo\\logo-fold-white.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-fold-white.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\logo\\logo-fold.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-fold.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\adobe-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\adobe-thumb.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\amazon-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\amazon-thumb.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\cambridge-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\cambridge-thumb.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\coffee-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\coffee-app-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\error-1.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\error-1.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\error-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\error-2.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\file-manager.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\file-manager.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-11.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-12.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-12.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-13.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-13.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-14.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-14.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\img-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\login-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\login-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-2.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\login-3.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-3.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\music-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\music-app-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\nvidia-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\nvidia-thumb.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\phillips-academy-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\phillips-academy-thumb.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\product-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\product-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\product-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\sign-up-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\sign-up-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\sign-up-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\sign-up-2.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-10.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-11.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-12.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-12.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-13.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-13.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-14.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-14.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-15.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-15.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-16.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-16.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-5.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-6.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-7.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-8.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-9.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\images\\others\\weather-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\weather-app-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\chartist.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chartist.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\chartjs.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chartjs.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\chat.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chat.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\dashboard-crm.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-crm.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\dashboard-e-commerce.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-e-commerce.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\datatables.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\datatables.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\e-commerce-order-list.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\e-commerce-order-list.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\e-commerce-product-edit.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\e-commerce-product-edit.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\file-manager.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\file-manager.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\form-elements.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\form-elements.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\icon.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\icon.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\mail.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\mail.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\pricing.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\pricing.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\profile.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\profile.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\project-list.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\project-list.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\slider.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\datepicker\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datepicker\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\datepicker\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datepicker\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\quill\\quill.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\select2\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2-spinner.gif"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\select2\\select2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\AdminAssets\\vendors\\select2\\select2x2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2x2.png"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Working\\eShop\\eShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eShop.props",
+      "PackagePath": "build\\eShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eShop.props",
+      "PackagePath": "buildMultiTargeting\\eShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eShop.props",
+      "PackagePath": "buildTransitive\\eShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
